@@ -1,2 +1,2 @@
 # Data-Science
-Compilation of Python codes
+Compilation of SQL Python codes for Data Science/Analyst Projects
