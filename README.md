@@ -9,3 +9,5 @@ Compilation of SQL & Python codes for Data Science/Analyst Projects
 - SQL Sub Query
 - Common Table Expressions (CTEs)
 - Tableau
+
+[Tablue Dashboards for RFM analysis](https://public.tableau.com/app/profile/ahmed.al.mubarak) 
